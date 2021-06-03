@@ -18,4 +18,4 @@ function bmi(weight, height) {
   }
 }
 
-console.log(bmi(234, 8))
+ 
